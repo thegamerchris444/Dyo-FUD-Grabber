@@ -1,5 +1,5 @@
 <h1 align="center">
-  Luna Token Grabber
+  Dyo Token Grabber
 </h1>
 
 <div align="center">
